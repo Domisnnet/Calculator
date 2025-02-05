@@ -95,7 +95,7 @@ Este projeto é open source e está licenciado sob a Licença MIT.  Use, modifiq
    **Resposta:** Você pode entrar em contato através do perfil do GitHub: 
 
 <a href="https://github.com/Domisnnet">
-    <img src="src/imagens/DomisDev.png" width="60px" height="60px" alt="Acessar perfil GitHub">
+    <img src="src/img/DomisDev.png" width="60px" height="60px" alt="Acessar perfil GitHub">
     DomisDev
 </a> 
 
