@@ -13,6 +13,8 @@ Imagine ter uma calculadora sempre à mão, sem precisar instalar nada. Basta cl
     <img src="src/img/botão.webp" width="35px" height="35px" alt="Acesse">
 </a>
 
+---
+
 ## 🎯 Funcionalidades Principais ⚙️
 
 *   ➕ **Operações Básicas:**  Soma, subtração, multiplicação e divisão ao seu alcance.
