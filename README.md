@@ -101,6 +101,6 @@ Este projeto é open source e está licenciado sob a Licença MIT.  Use, modifiq
 
 ---
 
-> Feito com ❤️ para facilitar seus cálculos. Encontrou algum problema ou tem alguma sugestão? [Abra uma Issue](https://github.com/seu-usuario/seu-repositorio/issues)! Sua opinião é muito importante para nós!
+Feito com ❤️ para facilitar seus cálculos. Encontrou algum problema ou tem alguma sugestão? [Abra uma Issue](https://github.com/seu-usuario/seu-repositorio/issues)! Sua opinião é muito importante para nós!
 
 Gostou da calculadora? ⭐ Dê uma estrela no repositório para nos apoiar!
