@@ -44,6 +44,11 @@ Imagine ter uma calculadora sempre à mão, sem precisar instalar nada. Basta cl
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
 </p>
+
+*   **HTML:**  A estrutura básica da página.
+*   **CSS:**  Os estilos que dão vida à calculadora.
+*   **JavaScript:**  A linguagem que faz a calculadora funcionar.
+*   **Bootstrap:**  Um framework para um design responsivo e moderno.
 ---
 
 ## 💡 Ideias para o Futuro 👩‍💻
