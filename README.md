@@ -62,7 +62,7 @@ Imagine ter uma calculadora sempre à mão, sem precisar instalar nada. Basta cl
 ## 🤝 Contribua!
 
 <p style="font-size: 1.1em; font-style: italic;">
-  "Mostre o quanto você é Inavador!."
+  "Mostre o quanto você é Inovador!"
 </p>
 
 <div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; border: 2px solid #222;">
@@ -106,6 +106,6 @@ Este projeto é open source e está licenciado sob a Licença MIT.  Use, modifiq
 
 ---
 
-Feito com ❤️ para facilitar seus cálculos. Encontrou algum problema ou tem alguma sugestão? [Abra uma Issue](https://github.com/seu-usuario/seu-repositorio/issues)! Sua opinião é muito importante para nós!
+Feito com ❤️ para facilitar seus cálculos. Encontrou algum problema ou tem alguma sugestão? [Abra uma Issue](https://github.com/seu-usuario/seu-repositorio/issues).Sua opinião é muito importante para nós!
 
 Gostou da calculadora? ⭐ Dê uma estrela no repositório para nos apoiar!
