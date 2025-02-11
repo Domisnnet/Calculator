@@ -70,24 +70,26 @@ Imagine ter uma calculadora sempre à mão, sem precisar instalar nada. Basta cl
       <span style="display:inline-block; margin-right: 5px;"> 👐 </span> Siga os passos para fortalecer este deck:
     </p>
     <ul style="list-style-type: none; padding: 0; margin: 0;">
-        <li style="margin-bottom: 10px;">
-           <span style="font-weight: bold; color: #1c7430;">1. 🍴 Faça um fork:</span> Adicione este projeto ao seu deck.
-        </li>
-        <li style="margin-bottom: 10px;">
-          <span style="font-weight: bold; color: #1c7430;">2. 🌿 Crie uma branch:</span> Prepare sua mudança(`git checkout -b minha-contribuicao`).
-        </li>
-        <li style="margin-bottom: 10px;">
-          <span style="font-weight: bold; color: #1c7430;">3. ✍️ Prepare seus commits:</span> Guarde suas mudanças (`git commit -am 'Adicione minha contribuição'`).
-        </li>
-        <li style="margin-bottom: 10px;">
-          <span style="font-weight: bold; color: #1c7430;">4. 🚀 Envie suas idéias:</span> Lance sua idéia e/ou sugestão (`git push origin minha-contribuicao`).
-        </li>
-        <li>
-           <span style="font-weight: bold; color: #1c7430;">5. ⚔️ Abra um Pull Request:</span> Desafie este deck original.
-        </li>
+      <li style="margin-bottom: 10px;">
+           <span style="font-weight: bold; color: #1c7430;">1. 🍴 <a href="https://github.com/Domisnnet/calculadora/fork" target="_blank" style="color: #1c7430; text-decoration: underline;">Faça um fork</a>:</span> Adicione este projeto ao seu deck.
+      </li>
+      <li style="margin-bottom: 10px;">
+          <span style="font-weight: bold; color: #1c7430;">2. 🌿 Crie uma branch:</span> Prepare sua melhoria. <a href="https://www.atlassian.com/br/git/tutorials/using-branches" target="_blank" style="color: #1c7430; text-decoration: underline;">Tutorial sobre Branches</a>
+      </li>
+      <li style="margin-bottom: 10px;">
+          <span style="font-weight: bold; color: #1c7430;">3. ✍️ Prepare seus commits:</span> Guarde suas mudanças. <a href="https://www.atlassian.com/br/git/tutorials/saving-changes/git-commit" target="_blank" style="color: #1c7430; text-decoration: underline;">Tutorial sobre Commits</a>
+      </li>
+     <li style="margin-bottom: 10px;">
+          <span style="font-weight: bold; color: #1c7430;">4. 🚀 Envie sua sugestão:</span> Lance suas idéias (`git push origin minha-contribuicao`).
+      </li>
+      <li>
+           <span style="font-weight: bold; color: #1c7430;">5. ⚔️ <a href="https://github.com/Domisnnet/calculadora/compare" target="_blank" style="color: #1c7430; text-decoration: underline;">Abra um Pull Request</a>:</span> Desafie este deck original.
+      </li>
+      <li>
+           <span style="font-weight: bold; color: #1c7430;">6. 🐛 <a href="https://github.com/Domisnnet/calculadora/issues" target="_blank" style="color: #1c7430; text-decoration: underline;">Reportar um problema/Sugestão (Issues)</a></span>
+      </li>
     </ul>
 </div>
-
 
 ## 📄 Licença
 
@@ -106,6 +108,6 @@ Este projeto é open source e está licenciado sob a Licença MIT.  Use, modifiq
 
 ---
 
-Feito com ❤️ para facilitar seus cálculos. Encontrou algum problema ou tem alguma sugestão? [Abra uma Issue](https://github.com/seu-usuario/seu-repositorio/issues).Sua opinião é muito importante para nós!
+Feito com ❤️ para facilitar seus cálculos. Encontrou algum problema ou tem alguma sugestão? Entre em contato pelo perfil do GitHub. Sua opinião é muito importante para nós!
 
 Gostou da calculadora? ⭐ Dê uma estrela no repositório para nos apoiar!
