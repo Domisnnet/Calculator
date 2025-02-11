@@ -91,6 +91,8 @@ Imagine ter uma calculadora sempre à mão, sem precisar instalar nada. Basta cl
     </ul>
 </div>
 
+---
+
 ## 📄 Licença
 
 Este projeto é open source e está licenciado sob a Licença MIT. veja o arquivo [LICENSE](LICENSE) para detalhes.  Use, modifique e compartilhe!
